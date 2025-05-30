@@ -22,3 +22,9 @@ Usage
 Training Model:
 
 Open trainedML.ipynb in Jupyter Notebook to retrain the ML model
+
+## Screenshot
+*Real-time intrusion detection interface.*  
+![Project Demo](images/your-screenshot-FrontPage.png)
+![Project Demo](images/your-screenshot-Result_1.png)
+![Project Demo](images/your-screenshot-Resut_2.png)  
