@@ -26,5 +26,6 @@ Open trainedML.ipynb in Jupyter Notebook to retrain the ML model
 ## Screenshot
 *Real-time intrusion detection interface.*  
 ![Project Demo](images/FrontPage.png)
+*Result*
 ![Project Demo](images/Result_1.png)
-![Project Demo](images/Resut_2.png)  
+![Project Demo](images/Result_2.png)  
