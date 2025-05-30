@@ -9,13 +9,10 @@ A machine learning-based project to detect and analyze suspicious network activi
 - **Jupyter Notebook**: `trainedML.ipynb` (renamed from `trainedMLipynb`) for model training.  
 
 ## Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/HamzaAnees786/Real-Time-Network-Intrusion-Detection-System.git
 
-2. Install dependencies:
+1. Install dependencies:
    pip install flask pandas scikit-learn numpy matplotlib
-3. Run the application:
+2. Run the application:
    python app.py
 
 Usage
