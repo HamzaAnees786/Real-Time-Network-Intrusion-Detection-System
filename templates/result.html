@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Analysis Result</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Analysis Result</h1>
+        <p>{{ result|safe }}</p>
+
+        {% if table %}
+            <h2>Preview of Analyzed Data</h2>
+            <div>{{ table|safe }}</div>
+        {% endif %}
+
+        <a href="{{ url_for('upload_file') }}">Upload another file</a>
+    </div>
+</body>
+</html>
