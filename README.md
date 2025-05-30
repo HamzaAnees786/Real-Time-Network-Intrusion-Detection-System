@@ -5,7 +5,7 @@ A machine learning-based project to detect and analyze suspicious network activi
 ## Features  
 - **Dataset**: Pre-processed `NetworkIntrusionDataset.csv` for training.  
 - **Web Interface**: Flask-based dashboard (see `app.py` and `templates/`).  
-- **Static Files**: CSS/JS in `static/` for frontend styling.  
+- **Static Files**: CSS in `static/` for frontend styling.  
 - **Jupyter Notebook**: `trainedML.ipynb` (renamed from `trainedMLipynb`) for model training.  
 
 ## Installation  
